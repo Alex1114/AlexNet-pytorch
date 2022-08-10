@@ -113,7 +113,7 @@ mistune==0.8.4
 mock==3.0.5
 monotonic==1.5
 more-itertools==8.0.2
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat==4.4.0
 netifaces==0.10.6
 notebook==6.0.2
